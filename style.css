@@ -1,0 +1,27 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    background-color: rgb(27, 27, 27);
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: x-large;
+}
+p{
+    font-size: larger;
+}
+.name-highlight{
+    color: orangered;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    margin-left: 125px;
+    width: 85%;
+}
